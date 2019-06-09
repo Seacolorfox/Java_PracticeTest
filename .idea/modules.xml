@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/05_TestAdd/05_TestAdd.iml" filepath="$PROJECT_DIR$/05_TestAdd/05_TestAdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_WanShu/06_WanShu.iml" filepath="$PROJECT_DIR$/06_WanShu/06_WanShu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_100MoneyBuy100Chickens/07_100MoneyBuy100Chickens.iml" filepath="$PROJECT_DIR$/07_100MoneyBuy100Chickens/07_100MoneyBuy100Chickens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_FenJie/FenJie.iml" filepath="$PROJECT_DIR$/04_FenJie/FenJie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_FindDaffodilNumber/FindDaffodilNumber.iml" filepath="$PROJECT_DIR$/01_FindDaffodilNumber/FindDaffodilNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_FindPrimeNumber/FindPrimeNumber.iml" filepath="$PROJECT_DIR$/03_FindPrimeNumber/FindPrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_PracticeTest.iml" filepath="$PROJECT_DIR$/Java_PracticeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_TestRabbit/TestRabbit.iml" filepath="$PROJECT_DIR$/02_TestRabbit/TestRabbit.iml" />
+    </modules>
+  </component>
+</project>
