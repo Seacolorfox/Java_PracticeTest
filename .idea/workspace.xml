@@ -13,7 +13,45 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08_AnimalVoiceSimulator/AnimalVoiceSimulator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09_ThreadTicket/ThreadTicket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10_JavaNotePad/JavaNotePad.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,6 +69,7 @@
         <option value="$PROJECT_DIR$/05_TestAdd/src/TestAdd.java" />
         <option value="$PROJECT_DIR$/06_WanShu/src/WanShu.java" />
         <option value="$PROJECT_DIR$/07_100MoneyBuy100Chickens/src/_100MoneyBuy100Chickens.java" />
+        <option value="$PROJECT_DIR$/08_AnimalVoiceSimulator/AnimalVoiceSimulator.java" />
       </list>
     </option>
   </component>
@@ -83,6 +122,11 @@
               <item name="Java_PracticeTest" type="462c0819:PsiDirectoryNode" />
               <item name="06_WanShu" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java_PracticeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_PracticeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="08_AnimalVoiceSimulator" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -120,7 +164,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._100MoneyBuy100Chickens">
+  <component name="RunManager" selected="Application.AnimalVoiceSimulator">
+    <configuration name="AnimalVoiceSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnimalVoiceSimulator" />
+      <module name="08_AnimalVoiceSimulator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindPrimeNumber" />
       <module name="FindPrimeNumber" />
@@ -131,13 +182,6 @@
     <configuration name="TestAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestAdd" />
       <module name="05_TestAdd" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestRabbit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestRabbit" />
-      <module name="TestRabbit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimalVoiceSimulator" />
         <item itemvalue="Application._100MoneyBuy100Chickens" />
         <item itemvalue="Application.WanShu" />
         <item itemvalue="Application.TestAdd" />
         <item itemvalue="Application.FindPrimeNumber" />
-        <item itemvalue="Application.TestRabbit" />
       </list>
     </recent_temporary>
   </component>
@@ -182,12 +226,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9660000" />
+    <option name="totallyTimeSpent" value="11985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -196,7 +241,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -204,7 +249,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -320,6 +365,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_ThreadTicket/ThreadTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_JavaNotePad/JavaNotePad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_AnimalVoiceSimulator/AnimalVoiceSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
