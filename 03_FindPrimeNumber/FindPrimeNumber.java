@@ -4,10 +4,20 @@ public class FindPrimeNumber
     {
         for (int i=101;i<=200;i++)
         {
-            if(Math.sqrt(i)%2!=0)
+            boolean flag = false;
+            for(int j=2;j<=i-1;j++)
             {
-                System.out.println(i);
+                if(i%j==0)
+                {
+                    flag = false;
+                    break;
+                }
+                else
+                    flag = true;
             }
+            if (flag==true)
+                System.out.println(i);
+
         }
     }
 }
