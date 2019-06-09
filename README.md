@@ -50,5 +50,6 @@
 
     【程序10】完成简单“记事本”应用程序的开发。
    要求：如下图所示，记事本具有新建、打开文本、保存更新、关闭等功能。
-    ![10_Pic](https://raw.githubusercontent.com/Seacolorfox/Java_PracticeTest/master/img-folder/10_Pic.jpg)
+    
+   ![10_Pic](https://raw.githubusercontent.com/Seacolorfox/Java_PracticeTest/master/img-folder/10_Pic.jpg)
 
