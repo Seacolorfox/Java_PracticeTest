@@ -45,9 +45,10 @@
     
     【程序9】多线程的应用
    题目：如下图所示，请利用多线程完成火车站窗口售票例程，要求不要出现一票多卖或者卖出负数票的情形出现。
-    ![09_Pic](https://github.com/Seacolorfox/Java_PracticeTest/blob/master/img-folder/09_Pic.png)
+    
+   ![09_Pic](https://raw.githubusercontent.com/Seacolorfox/Java_PracticeTest/master/img-folder/09_Pic.png)
 
     【程序10】完成简单“记事本”应用程序的开发。
    要求：如下图所示，记事本具有新建、打开文本、保存更新、关闭等功能。
-    ![10_Pic](https://github.com/Seacolorfox/Java_PracticeTest/blob/master/img-folder/10_Pic.png)
+    ![10_Pic](https://raw.githubusercontent.com/Seacolorfox/Java_PracticeTest/master/img-folder/10_Pic.jpg)
 
