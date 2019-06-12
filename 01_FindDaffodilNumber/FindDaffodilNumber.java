@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//很慢很慢很慢
 public class FindDaffodilNumber
 {
     private static void splitArry(int n)
