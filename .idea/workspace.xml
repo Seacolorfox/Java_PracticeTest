@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="890b7c5e-ba8e-4814-93de-2f643dd7d6f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/10_JavaNotePad/JavaNotePad.java" beforeDir="false" afterPath="$PROJECT_DIR$/10_JavaNotePad/JavaNotePad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_FindDaffodilNumber/FindDaffodilNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_FindDaffodilNumber/FindDaffodilNumber.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,55 +18,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_FindDaffodilNumber/FindDaffodilNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_FenJie/FenJie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="21">
-                <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+              <first_editor relative-caret-position="439">
+                <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img-folder/10_Pic.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/10_JavaNotePad/JavaNotePad.java">
+        <entry file="file://$PROJECT_DIR$/01_FindDaffodilNumber/FindDaffodilNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="158" column="13" lean-forward="true" selection-start-line="158" selection-start-column="13" selection-end-line="158" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="class#1001:2486" />
-                <element signature="class#914:2469" />
-                <element signature="class#4068:5239" />
-                <element signature="e#2813#2872#0" />
-                <element signature="e#6031#6032#0" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="171">
+              <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -93,17 +61,17 @@
         <option value="$PROJECT_DIR$/07_100MoneyBuy100Chickens/src/_100MoneyBuy100Chickens.java" />
         <option value="$PROJECT_DIR$/08_AnimalVoiceSimulator/AnimalVoiceSimulator.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/01_FindDaffodilNumber/FindDaffodilNumber.java" />
         <option value="$PROJECT_DIR$/03_FindPrimeNumber/FindPrimeNumber.java" />
         <option value="$PROJECT_DIR$/09_ThreadTicket/ThreadTicket.java" />
-        <option value="$PROJECT_DIR$/04_FenJie/FenJie.java" />
         <option value="$PROJECT_DIR$/10_JavaNotePad/JavaNotePad.java" />
+        <option value="$PROJECT_DIR$/04_FenJie/FenJie.java" />
+        <option value="$PROJECT_DIR$/01_FindDaffodilNumber/FindDaffodilNumber.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="483" />
-    <option name="y" value="3" />
+    <option name="x" value="676" />
+    <option name="y" value="53" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -124,16 +92,6 @@
               <item name="Java_PracticeTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_PracticeTest" type="462c0819:PsiDirectoryNode" />
               <item name="01_FindDaffodilNumber" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_PracticeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_PracticeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="04_FenJie" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_PracticeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_PracticeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="10_JavaNotePad" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,10 +132,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaNotePad">
-    <configuration name="AnimalVoiceSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnimalVoiceSimulator" />
-      <module name="08_AnimalVoiceSimulator" />
+  <component name="RunManager" selected="Application.FindDaffodilNumber">
+    <configuration name="FenJie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FenJie" />
+      <module name="FenJie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindDaffodilNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindDaffodilNumber" />
+      <module name="FindDaffodilNumber" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -203,20 +168,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_100MoneyBuy100Chickens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_100MoneyBuy100Chickens" />
-      <module name="07_100MoneyBuy100Chickens" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindDaffodilNumber" />
+        <item itemvalue="Application.FenJie" />
         <item itemvalue="Application.JavaNotePad" />
         <item itemvalue="Application.FindPrimeNumber" />
         <item itemvalue="Application.ThreadTicket" />
-        <item itemvalue="Application.AnimalVoiceSimulator" />
-        <item itemvalue="Application._100MoneyBuy100Chickens" />
       </list>
     </recent_temporary>
   </component>
@@ -232,18 +190,20 @@
       <updated>1560007473225</updated>
       <workItem from="1560007476818" duration="831000" />
       <workItem from="1560046705916" duration="7864000" />
-      <workItem from="1560128841763" duration="7687000" />
+      <workItem from="1560128841763" duration="13316000" />
+      <workItem from="1560180351218" duration="582000" />
+      <workItem from="1560308891752" duration="2587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31181000" />
+    <option name="totallyTimeSpent" value="39979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -253,7 +213,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286334" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -381,33 +341,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img-folder/10_Pic.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_FenJie/FenJie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_FindDaffodilNumber/FindDaffodilNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="21">
-            <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/FileReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -424,7 +357,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/10_JavaNotePad/JavaNotePad.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
+        <state relative-caret-position="-32">
           <caret line="158" column="13" lean-forward="true" selection-start-line="158" selection-start-column="13" selection-end-line="158" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -436,6 +369,33 @@
             <element signature="e#405#406#0" expanded="true" />
             <element signature="e#434#435#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img-folder/10_Pic.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_FenJie/FenJie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="439">
+            <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_FindDaffodilNumber/FindDaffodilNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
         </state>
       </provider>
     </entry>
