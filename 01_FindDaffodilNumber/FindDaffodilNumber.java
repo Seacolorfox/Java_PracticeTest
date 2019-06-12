@@ -2,32 +2,31 @@ import java.util.Scanner;
 
 public class FindDaffodilNumber
 {
-    public static void main(String args[])
+    private static void splitArry(int n)
     {
-        int A;
-        int B=1;
+        int num = n;
         int sum = 0;
-        int n = new Scanner(System.in).nextInt();
-        for (int i = 100; i <= 100 * n; i++)
+        int ary[] = new int[(num+"").length()];
+        for(int i = ary.length-1;i>=0;i--){
+            ary[i] = num%10;
+            num /= 10;
+        }
+        for(int i = 0;i<=(n+"").length()-1;i++)
         {
-            A =i;//wenti
-            while (B>0)
+            sum+=Math.pow(ary[i],(n+"").length());
+            if(sum == n)
             {
-                B = A % 10;
-                A = A / 10;
-
-                sum += Math.pow(B, n);
-                if (sum == i)
-                    System.out.println(sum);
-                else
-                    sum = 0;
+                System.out.print("Yes:");
+                System.out.println(sum);
             }
-
         }
     }
-    public static int change(int i)
+    public static void main(String args[])
     {
-        int A = i;
-        return A;
+        int n = new Scanner(System.in).nextInt();
+        for(int i = 100;i<=Math.pow(10,n);i++)
+        {
+            splitArry(i);
+        }
     }
 }
